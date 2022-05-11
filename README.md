@@ -1,5 +1,4 @@
-CLOSE THIS WORLD
-TXEN EHT NEPO
+hello
 <!--
 **SleepyLain/SleepyLain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
